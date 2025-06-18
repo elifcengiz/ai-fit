@@ -44,7 +44,7 @@ Projeyi geliştirme modunda başlatmak için:
   ```
 Bu komut, Expo geliştirme sunucusunu başlatacaktır. Ardından Expo Go uygulamasını kullanarak (Android/iOS) veya bir web tarayıcısında projenizi çalıştırabilirsiniz.
 ### Diğer Kullanılabilir Komutlar
-- **Web için build almak**
+- **Web için build almak:**
   ```bash
   npm run build:web
   ```
